@@ -20,6 +20,7 @@ function esBisiesto(anio){
     } else {
         return false;
 }
+}
 
 function verificarCalificacion(calificacion){
     // Escribe un programa que determine si un estudiante aprobó o reprobó un examen.
